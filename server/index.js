@@ -11,5 +11,5 @@ mongoose
   .catch((error) => console.log(error));
 
 app.listen("3000", () => {
-  console.log("Hello I am server 😁");
+  console.log("Hello I am server and I am running fine .....");
 });
